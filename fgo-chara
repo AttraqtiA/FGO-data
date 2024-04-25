@@ -1,4 +1,4 @@
-Name,Class,Rarity,HP (at max level),ATK (at max level),Star Absorption,Star Generation,NP Charge ATK,NP Charge DEF,Death Rate,Buster Card count,Quick Card count,Arts Card Count,NP Type
+Name,Class,Rarity,HP (at max level),ATK (at max level),Star Absorption,Star Generation,NP Charge ATK,NP Charge DEF,Death Rate,Buster Card Count,Quick Card Count,Arts Card Count,NP Type
 Gilgamesh,Archer,5,14518,11297,153,8.9%,0.87%,0.54%,24%,1,2,2,Single
 Jeanne d'Arc,Ruler,5,15539,9256,99,10.1%,0.76%,0.84%,0%,1,2,2,Multi
 Artoria Pendragon,Saber,5,14175,11210,99,9.9%,0.63%,0.84%,24%,1,1,3,Single
